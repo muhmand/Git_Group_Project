@@ -6,5 +6,7 @@ public class Anam {
         System.out.println("Hi, my new Git project");
 
         System.out.println("Git file updated");
+
+        System.out.println("Git file completed");
     }
 }
